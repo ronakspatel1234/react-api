@@ -1,0 +1,796 @@
+{
+  "user": [
+    {
+      "userId": "ronak",
+      "password": "Ronak1234"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Ronak Patel",
+      "address": "Jujwafdvfdvfdsvsdf",
+      "designation": "accountant",
+      "file": "C:\\fakepath\\TS.pdf",
+      "dancing": true,
+      "driving": true,
+      "singing": true,
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "shudhansu",
+      "address": "209 MATA STREET JUJWA VALSAD",
+      "designation": "programmer",
+      "file": "C:\\fakepath\\IMG_20170303_203700_855.jpg",
+      "dancing": true,
+      "driving": false,
+      "singing": true,
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "Carey Bell",
+      "address": "209 MATA STREET JUJWA VALSAD",
+      "designation": "hummus resource",
+      "file": "C:\\fakepath\\IMG_20170303_203700_855.jpg",
+      "dancing": true,
+      "driving": true,
+      "singing": false,
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "ffff",
+      "address": ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+      "designation": "hummus resource",
+      "file": "C:\\fakepath\\Daily Status Report.docx",
+      "dancing": false,
+      "driving": true,
+      "singing": false,
+      "gender": "female",
+      "email": "lm@g.j",
+      "id": 5
+    }
+  ],
+  "customers": [
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "JLK",
+      "createdAt": "2019-07-20T00:00:00.000Z",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 101
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "JLK",
+      "createdAt": "2019-07-26",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 3333333333,
+      "id": 102
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "FDSF",
+      "group": "JLK",
+      "createdAt": "2019-07-27",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 103
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "COMTRACT",
+      "group": "General",
+      "createdAt": "2019-07-27",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 104
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "General",
+      "createdAt": "2019-07-26",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 105
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "FDSF",
+      "group": "General",
+      "createdAt": "2019-07-27",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 106
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "JLK",
+      "createdAt": "2019-07-26",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 107
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "General",
+      "createdAt": "2019-07-25",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 108
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "General",
+      "createdAt": "2019-07-16",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 109
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "FDSF",
+      "group": "JLK",
+      "createdAt": "2019-07-10",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 110
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "FDSF",
+      "group": "JLK",
+      "createdAt": "2019-07-24",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 111
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "FDSF",
+      "group": "General",
+      "createdAt": "2019-07-25",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 112
+    },
+    {
+      "name": "Ronak Patel",
+      "company": "bnvnbvnvb",
+      "group": "JLK",
+      "createdAt": "2019-07-19",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 113
+    },
+    {
+      "name": "hgfhh",
+      "company": "ghhgh",
+      "group": "hghgffhg",
+      "createdAt": "2019-07-18",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 114
+    },
+    {
+      "name": "RonPatelasda",
+      "company": "sdfgfdsgds",
+      "group": "dgfsg",
+      "createdAt": "2019-07-18T09:55:26.270Z",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 115
+    },
+    {
+      "name": "Ronak P4325",
+      "company": "bnvnbvnvb",
+      "group": "da",
+      "createdAt": "2019-07-13T10:03:18.000Z",
+      "email": "ronakspatel1234@gmail.com",
+      "mobileNumber": 8200336867,
+      "id": 116
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "1Rivet"
+    },
+    {
+      "id": 2,
+      "name": "Ufizio"
+    },
+    {
+      "id": 3,
+      "name": "Mexima"
+    },
+    {
+      "id": 4,
+      "name": "BoseLio"
+    },
+    {
+      "id": 5,
+      "name": "Confluence"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Tata"
+    },
+    {
+      "id": 2,
+      "name": "Birla"
+    },
+    {
+      "id": 3,
+      "name": "Ambani"
+    },
+    {
+      "id": 4,
+      "name": "Mexima"
+    },
+    {
+      "id": 5,
+      "name": "1Rivet"
+    }
+  ],
+  "headers": {
+    "en": {
+      "id": "ID",
+      "name": "NAME",
+      "company": "COMPANY",
+      "group": "GROUP",
+      "createdAt": "CREATED_AT",
+      "email": "EMAIL",
+      "productNumber": "PRODUCT_NUMBER",
+      "image": "IMAGE"
+    },
+    "fr": {
+      "id": "ID",
+      "name": "PRÉNOM",
+      "company": "ENTREPRISE",
+      "group": "GROUPE",
+      "createdAt": "CRÉÉ À",
+      "email": "EMAIL",
+      "productNumber": "NUMÉRO DE PRODUIT",
+      "image": "IMAGE"
+    }
+  },
+  "DATA_TABLE": {
+    "TITLE": {
+      "CUSTOMER_TITLE": {
+        "en": "Customers",
+        "fr": "Les clients"
+      }
+    },
+    "COLUMN_HEADER": {
+      "product_title": {
+        "en": {
+          "id": "ID",
+          "name": "NAME",
+          "address": {
+            "street": "STREET",
+            "city": "CITY",
+            "zipcode": "ZIPCODE"
+          },
+          "company": "COMPANY",
+          "group": "GROUP",
+          "createdAt": "CREATED_AT",
+          "email": "EMAIL",
+          "mobileNumber": "MOBILE_NUMBER",
+          "productNumber": "PRODUCT_NUMBER",
+          "description": "DESCRIPTION",
+          "image": "IMAGE"
+        },
+        "fr": {
+          "id": "ID",
+          "name": "PRÉNOM",
+          "address": {
+            "street": "RUE",
+            "city": "VILLE",
+            "zipcode": "CODE POSTAL"
+          },
+          "company": "ENTREPRISE",
+          "group": "GROUPE",
+          "createdAt": "CRÉÉ À",
+          "email": "EMAIL",
+          "mobileNumber": "NUMÉRO DE PORTABLE",
+          "productNumber": "NUMÉRO DE PRODUIT",
+          "description": "LA DESCRIPTION",
+          "image": "IMAGE"
+        }
+      }
+    },
+    "GENERAL": ""
+  },
+  "labels": [
+    {
+      "key": "lblUserName",
+      "en": "User name",
+      "fr": "Nom d'utilisateur"
+    },
+    {
+      "key": "lblDescription",
+      "en": "Description",
+      "fr": "La description"
+    },
+    {
+      "key": "lblIsAdmin",
+      "en": "Is Admin",
+      "fr": "Est administrateur"
+    },
+    {
+      "key": "lblCity",
+      "en": "Single Select Dropdown",
+      "fr": "Liste déroulante à sélection unique"
+    },
+    {
+      "key": "lblMultiCity",
+      "en": "Multi Select Dropdown",
+      "fr": "Liste de sélection multiple"
+    },
+    {
+      "key": "lblDOB",
+      "en": "Date of birth",
+      "fr": "Date de naissance"
+    },
+    {
+      "key": "lblUploadDile",
+      "en": "Upload photo",
+      "fr": "Liste déroulante à sélection unique"
+    },
+    {
+      "key": "lblState",
+      "en": "Search for a state",
+      "fr": "Rechercher un état"
+    },
+    {
+      "key": "lblLanguage",
+      "en": "Select language",
+      "fr": "Choisir la langue"
+    },
+    {
+      "key": "userName",
+      "en": "Enter user name",
+      "fr": "Saisissez votre nom d'utilisateur"
+    },
+    {
+      "key": "description",
+      "en": "Enter description",
+      "fr": "Entrez la description"
+    },
+    {
+      "key": "singleCity",
+      "en": "Select current city",
+      "fr": "Sélectionnez la ville actuelle"
+    },
+    {
+      "key": "multiCity",
+      "en": "Select city",
+      "fr": "Sélectionnez une ville"
+    },
+    {
+      "key": "birthDate",
+      "en": "Enter date of birth",
+      "fr": "Entrer date de naissance"
+    },
+    {
+      "key": "state",
+      "en": "Enter state",
+      "fr": "Entrer l'état"
+    },
+    {
+      "key": "btnSave",
+      "en": "Save",
+      "fr": "enregistrer"
+    }
+  ],
+  "userRecords": [
+    {
+      "id": 1,
+      "fullName": "nitesh sharma123",
+      "firstName": "nitesh",
+      "lastName": "sharma",
+      "description": "I am nitesh",
+      "isAdmin": false,
+      "city": "Pavilnys",
+      "multiCity": [
+        "Kaunas",
+        "Klaipėda"
+      ],
+      "birthDate": "2019-04-17T06:01:34.000Z",
+      "state": "Alaska"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15,
+      "fullName": "vccv",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Kaunas",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-30T09:27:07.000Z",
+      "image": {},
+      "state": "Alaska"
+    },
+    {
+      "id": 16,
+      "fullName": "cvxxvc",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Vilnius",
+        "Kaunas"
+      ],
+      "birthDate": "2019-04-28T09:28:09.000Z",
+      "image": {},
+      "state": "Alaska"
+    },
+    {
+      "id": 17,
+      "fullName": "bbc",
+      "description": "bvbvx",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Kaunas",
+        "Pavilnys"
+      ],
+      "birthDate": "2019-04-21T09:53:14.000Z",
+      "image": {},
+      "state": "Marshall Islands"
+    },
+    {
+      "id": 18,
+      "fullName": "ddfdf",
+      "description": "",
+      "isAdmin": false,
+      "city": "Pavilnys",
+      "multiCity": [
+        "Pavilnys"
+      ],
+      "birthDate": "2019-04-16T05:55:19.000Z",
+      "image": {},
+      "state": "California"
+    },
+    {
+      "id": 19,
+      "fullName": "vvfg",
+      "description": "",
+      "isAdmin": false,
+      "city": "Pabradė",
+      "multiCity": [
+        "Kaunas",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-01T06:22:59.000Z",
+      "image": {},
+      "state": "Alaska"
+    },
+    {
+      "id": 20,
+      "fullName": "nitesh",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Pavilnys",
+        "Kaunas",
+        "Klaipėda",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-22T06:21:59.000Z",
+      "image": {},
+      "state": "Alaska"
+    },
+    {
+      "id": 21,
+      "fullName": "sggf",
+      "description": "fggf",
+      "isAdmin": false,
+      "city": "Pavilnys",
+      "multiCity": [
+        "Kaunas",
+        "Pabradė",
+        "Pavilnys"
+      ],
+      "birthDate": "2019-04-10T11:30:53.000Z",
+      "image": {},
+      "state": "California"
+    },
+    {
+      "id": 22,
+      "fullName": "ggfgd",
+      "description": "fdg",
+      "isAdmin": false,
+      "city": "Vilnius",
+      "multiCity": [
+        "Kaunas",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-01T06:45:00.000Z",
+      "image": {},
+      "state": "Palau"
+    },
+    {
+      "id": 23,
+      "fullName": "nitesh",
+      "description": "gggh",
+      "isAdmin": false,
+      "city": "Pavilnys",
+      "multiCity": [
+        "Kaunas"
+      ],
+      "birthDate": "2019-04-23T06:47:18.000Z",
+      "image": {},
+      "state": "Northern Mariana Islands",
+      "orderTime": "2019-04-29T06:47:21.188Z"
+    },
+    {
+      "id": 24,
+      "fullName": "Nitesh",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Pavilnys",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-08T11:48:21.000Z",
+      "image": {},
+      "state": "Alaska",
+      "orderTime": "12:00"
+    },
+    {
+      "id": {
+        "id": 24,
+        "userName": "Nitesh",
+        "description": "",
+        "isAdmin": false,
+        "city": "Kaunas",
+        "birthDate": "2019-04-08T11:48:21.000Z",
+        "state": "Alaska",
+        "orderTime": "12:00",
+        "multiCity": [
+          "Pavilnys",
+          "Pabradė"
+        ],
+        "image": {}
+      },
+      "fullName": "Nitesh",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Pavilnys",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-08T11:48:21.000Z",
+      "image": {},
+      "state": "Alaska",
+      "orderTime": "12:25:00"
+    },
+    {
+      "id": 25,
+      "fullName": "erer",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Pabradė",
+        "Pavilnys"
+      ],
+      "birthDate": "2019-04-09T12:01:31.000Z",
+      "image": {},
+      "state": "California",
+      "orderTime": "12:30:00"
+    },
+    {
+      "id": 26,
+      "fullName": "dfgd",
+      "description": "",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Kaunas",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-08T07:49:46.000Z",
+      "image": {},
+      "state": "Marshall Islands",
+      "orderTime": "12:55:00"
+    },
+    {
+      "id": 27,
+      "fullName": "ththhrt",
+      "description": "rheehrrh",
+      "isAdmin": false,
+      "city": "Kaunas",
+      "multiCity": [
+        "Pavilnys",
+        "Pabradė"
+      ],
+      "birthDate": "2019-04-24T07:52:33.000Z",
+      "image": {},
+      "state": "Marshall Islands",
+      "orderTime": "12:55:00",
+      "contactNumber": "(972) 499-5831"
+    },
+    {
+      "id": 28,
+      "fullName": "ghfhg",
+      "description": "hddhdh",
+      "isAdmin": false,
+      "city": "Vilnius",
+      "multiCity": [
+        "Kaunas"
+      ],
+      "birthDate": "2019-04-16T07:58:14.000Z",
+      "image": {},
+      "state": "an",
+      "orderTime": "12:00",
+      "contactNumber": "(972) 499-5831"
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "name": "Vilnius"
+    },
+    {
+      "id": 2,
+      "name": "Kaunas"
+    },
+    {
+      "id": 3,
+      "name": "Pavilnys"
+    },
+    {
+      "id": 4,
+      "name": "Pabradė"
+    },
+    {
+      "id": 5,
+      "name": "Klaipėda"
+    }
+  ],
+  "multiCity": [
+    {
+      "id": 1,
+      "name": "Vilnius"
+    },
+    {
+      "id": 2,
+      "name": "Kaunas"
+    },
+    {
+      "id": 3,
+      "name": "Pavilnys"
+    },
+    {
+      "id": 4,
+      "name": "Pabradė"
+    },
+    {
+      "id": 5,
+      "name": "Klaipėda"
+    }
+  ],
+  "states": [
+    "Alabama",
+    "Alaska",
+    "American Samoa",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District Of Columbia",
+    "Federated States Of Micronesia",
+    "Florida",
+    "Georgia",
+    "Guam",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Marshall Islands",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Northern Mariana Islands",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Palau",
+    "Pennsylvania",
+    "Puerto Rico",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virgin Islands",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "saveTabData": {
+    "name": "Tab1"
+  }
+}
